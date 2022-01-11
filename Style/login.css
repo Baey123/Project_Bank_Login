@@ -1,0 +1,51 @@
+body{
+    background-color: rgba(35,35,35,255);
+    font-family: 'Oswald', sans-serif;
+font-family: 'Roboto', sans-serif;
+}
+nav{
+    background-color: rgba(0,0,0,255);
+    width: 100%;
+    position: fixed;
+    right: 0px;
+    top: -5px;
+    
+}
+li{
+    color: gray;
+    
+     display:inline;
+     font-size: 25px;
+     padding-left: 400px;
+}
+.material-icons{
+    color: white;
+    position:fixed;
+    left: 410px;
+    
+  }
+  div{
+    margin-top: 70px;
+    width: 400px;
+    display: inline-block;
+    position: static;
+    margin-left: 50px;
+  }
+img{
+    width: 400px;
+    height: 400px;
+    display: fixed;
+}
+#aidi{
+    left: 875px;
+    
+}
+#aidi2{
+    left: 1370px;
+}
+h2{
+    color: whitesmoke;
+}
+
+
+
